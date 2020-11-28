@@ -242,7 +242,7 @@ input.input100 {
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
 .l1-txt1 {
-  font-family: Montserrat-Black;
+  font-family: Montserrat-Regular;
   font-size: 40px;
   color: #3a3a3a;
   line-height: 1.2;
@@ -296,8 +296,9 @@ input.input100 {
 }
 
 .logo {
-  max-height: 300px;
-  max-width: 400px
+  max-height: 200px;
+  max-width: 400px;
+  margin-bottom: 50px;
 }
 
 /*//////////////////////////////////////////////////////////////////
